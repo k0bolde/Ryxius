@@ -1,0 +1,59 @@
+﻿Build started 4/19/2012 9:01:27 AM.
+     1>Project "Q:\HGD\BEAR\trunk\orx\orx.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\orx.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D __orxDEBUG__ /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\LevelSystem.cpp
+         LevelSystem.cpp
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(93): warning C4305: '=' : truncation from 'double' to 'orxFLOAT'
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(127): warning C4305: '=' : truncation from 'double' to 'orxFLOAT'
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(194): warning C4018: '<' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(292): warning C4018: '<' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(309): warning C4018: '<' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(322): warning C4244: 'initializing' : conversion from 'int' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(387): warning C4244: 'initializing' : conversion from 'int' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(405): warning C4244: 'initializing' : conversion from 'int' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(411): warning C4244: 'initializing' : conversion from 'int' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(411): warning C4244: 'initializing' : conversion from 'int' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(431): warning C4018: '>=' : signed/unsigned mismatch
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(548): warning C4305: '=' : truncation from 'double' to 'orxFLOAT'
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2446): warning C4244: '=' : conversion from 'double' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2447): warning C4244: '=' : conversion from 'double' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2466): warning C4244: '=' : conversion from 'double' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2467): warning C4244: '=' : conversion from 'double' to 'orxFLOAT', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2468): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2484): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>q:\hgd\bear\trunk\source\levelsystem.cpp(2485): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(Q:\HGD\BEAR\trunk\orx\Debug\orx.exe) does not match the Linker's OutputFile property value (Q:\HGD\BEAR\trunk\bin\orx_d.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(orx) does not match the Linker's OutputFile property value (orx_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\orx_d.exe" /NOLOGO /LIBPATH:..\lib orxd.lib /MANIFEST /ManifestFile:"Debug\orx.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Q:\HGD\BEAR\trunk\orx\Debug\orx.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Q:\HGD\BEAR\trunk\orx\Debug\orx.lib" /MACHINE:X86 Debug\Action.obj
+         Debug\Behavior.obj
+         Debug\BehaviorStep.obj
+         Debug\Boss.obj
+         Debug\Bullet.obj
+         Debug\HighScores.obj
+         Debug\LevelSystem.obj
+         Debug\Main.obj
+         Debug\GameSystem.obj
+         Debug\Parser.obj
+         Debug\Pattern.obj
+         Debug\Player.obj
+         Debug\PlayerWeapon.obj
+         Debug\Powerup.obj
+         Debug\Unit.obj
+         LINK : ..\bin\orx_d.exe not found or not built by the last incremental link; performing full link
+     1>LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+         orx.vcxproj -> Q:\HGD\BEAR\trunk\orx\Debug\orx.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"..\bin\orx_d.exe;#1" /manifest Debug\orx.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\orx.unsuccessfulbuild".
+         Touching "Debug\orx.lastbuildstate".
+     1>Done Building Project "Q:\HGD\BEAR\trunk\orx\orx.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

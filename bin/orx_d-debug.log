@@ -1,0 +1,223 @@
+[2012-04-18 22:29:41] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:29:41] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [background10::Graphic]: Replacing value "bFrame10" with new value "bFrame10" from <Backgrounds.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [background10::Position]: Replacing value "(-500.0,-1650.0,1.0)" with new value "(-500.0,-1650.0,1.0)" from <Backgrounds.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [background10::Scale]: Replacing value "1" with new value "1" from <Backgrounds.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [bFrame10::Texture]: Replacing value "../data/Art/spaceSmall10.png" with new value "../data/Art/backgrounds/spacefiller1.png" from <Backgrounds.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [bFrame10::Pivot]: Replacing value "(0,0,0)" with new value "(0,0,0)" from <Backgrounds.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:29:42] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:29:43] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:29:44] <OBJECT> (orxObject_CreateFromConfig() - f:\workspace\orx\code\src\object\orxobject.c:1176) Failed to find config section named filler1.
+[2012-04-18 22:29:44] <ASSERT> (orxObject_SetSpeed() - f:\workspace\orx\code\src\object\orxobject.c:2561) [Assertion failed] : <(_pstObject) != orxNULL>
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Texture]: Replacing value "../data/Art/backgrounds/spacefiller1.png" with new value "../data/Art/backgrounds/spacefiller3.png" from <Backgrounds.ini>.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Pivot]: Replacing value "(0,0,0)" with new value "(0,0,0)" from <Backgrounds.ini>.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:30:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:30:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:30:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:30:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Texture]: Replacing value "../data/Art/backgrounds/spacefiller1.png" with new value "../data/Art/backgrounds/spacefiller3.png" from <Backgrounds.ini>.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Pivot]: Replacing value "(0,0,0)" with new value "(0,0,0)" from <Backgrounds.ini>.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:30:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:30:39] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:31:03] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:31:03] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Texture]: Replacing value "../data/Art/backgrounds/spacefiller1.png" with new value "../data/Art/backgrounds/spacefiller3.png" from <Backgrounds.ini>.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [filler1frame::Pivot]: Replacing value "(0,0,0)" with new value "(0,0,0)" from <Backgrounds.ini>.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:31:04] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:31:05] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:31:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:31:52] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:32:50] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:32:50] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:32:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:32:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:32:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:32:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:32:52] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:33:37] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:33:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:34:47] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:34:47] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:34:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:34:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:34:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:34:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:34:49] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:35:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:35:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:35:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:35:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:35:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:35:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:35:26] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:38:48] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:38:50] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:39:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:39:29] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:40:22] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:40:23] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:41:05] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:41:05] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:41:06] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:41:06] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:41:06] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:41:06] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:41:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:10] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:42:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:32] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:32] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:32] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:32] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:33] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-18 22:42:52] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:47:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:47:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:47:28] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:47:28] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:47:28] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:47:28] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:47:29] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:48:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:48:26] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:49:00] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:49:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:49:26] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:49:26] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:49:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:49:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:49:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:49:27] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:49:28] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:50:02] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:50:03] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:50:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:50:46] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:51:23] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:51:23] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:51:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:51:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:51:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:51:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:51:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:52:12] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:52:14] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:54:50] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:54:50] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:54:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:54:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:54:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:54:51] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:54:52] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:56:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:56:07] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:56:08] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:56:08] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:56:08] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:56:08] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:56:09] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:57:45] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 08:57:47] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:00:24] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:00:25] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 09:00:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 09:00:38] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 09:00:39] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:00:39] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:00:39] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:00:39] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:00:40] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.
+[2012-04-19 09:01:30] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2647) [orx_d.ini]: Begins the processing of included file @MainMenu.ini@.
+[2012-04-19 09:01:30] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2653) [orx_d.ini]: Ends the processing of included file @MainMenu.ini@.
+[2012-04-19 09:01:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:01:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <UI.ini>.
+[2012-04-19 09:01:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Graphic]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:01:31] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Points::Text]: Replacing value "Points" with new value "Points" from <Powerup.ini>.
+[2012-04-19 09:01:32] <SYSTEM> (orxConfig_Load() - f:\workspace\orx\code\src\core\orxconfig.c:2561) Config entry [Input::SetList]: Replacing value "PlayerInput" with new value "PhysicsInput" from <Interaction.ini>.

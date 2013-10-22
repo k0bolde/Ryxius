@@ -1,0 +1,69 @@
+//Survival mode spawner
+
+		int numEnemies = currentUnits.size();
+		int ETime = 10000000;
+		if(numEnemies<4){
+			ETime = 10;
+		}else if(numEnemies<6){
+			ETime = 31;
+		}else if(numEnemies<10){
+			ETime = 60;
+		}else{
+			ETime = 101;
+		}
+		if(time%ETime==0) { //spawn an enemy
+			int select = rand()%5; //5 for twilight
+			if(select==0){
+				orxSTRING temp = "b2";
+				orxVECTOR asdf = {(rand()%300),-350,0};
+				if(rand()%2==1){
+					asdf.fX=-(rand()%300);
+				}
+				Unit *base2 = new Unit(asdf,temp,5,10); //5
+				m_Instance->addUnit(base2);
+			}
+			if(select==1){
+				orxSTRING temp = "down";
+				orxVECTOR asdf = {(rand()%500),-500,0};
+				if(rand()%2==1){
+					asdf.fX=-asdf.fX;
+				}
+				Unit *what = new Unit(asdf,temp, 10, 20); //15
+				asdf.fX=0;
+				asdf.fY=200;
+				what->SetSpeed(asdf);
+				m_Instance->addUnit(what);
+			}
+			if(select==2){
+				orxSTRING temp = "side";
+				orxVECTOR asdf = {600,-500,0};
+				if(rand()%2==0){
+					asdf.fX=-asdf.fX;
+				}
+				Unit *what = new Unit(asdf,temp,5,10); //10
+				if(asdf.fX>0){
+					asdf.fX=-200;
+				}else{
+					asdf.fX=200;
+				}
+				asdf.fY=200;
+				what->SetSpeed(asdf);
+				m_Instance->addUnit(what);
+			}
+			if(select==3){
+				orxSTRING temp = "stream";
+				orxVECTOR whatevs = {0,0,0};
+				Unit *ohnoes = new Unit(whatevs,temp,5,10); //10
+				m_Instance->addUnit(ohnoes);
+			}
+			if(select==4){
+				orxSTRING temp = "BasicDynamic";
+				orxVECTOR start = {550,350,0};
+				if(rand()%2==1){
+					start.fX=-start.fX;
+				}
+				Unit *AHHHH = new Unit(start, temp,5,10); //10
+				m_Instance->addUnit(AHHHH);
+			}
+		}
+		//end survival code 
